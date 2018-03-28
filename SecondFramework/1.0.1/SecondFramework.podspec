@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SecondFramework'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Boooooooo.'
   s.homepage         = 'https://github.com/kapam6a/SecondFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
