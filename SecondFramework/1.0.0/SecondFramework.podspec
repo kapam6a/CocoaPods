@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SecondFramework'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Boooooooo.'
   s.homepage         = 'https://github.com/kapam6a/SecondFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Framework_bundle/**/*'
+  s.source_files = 'SecondFramework/**/*'
   
   # s.resource_bundles = {
   #   'AwesomeFramework' => ['AwesomeFramework/Assets/*.png']
