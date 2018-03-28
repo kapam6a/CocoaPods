@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = '*'
+  s.source_files = 'Framework_bundle/**/*'
   
   # s.resource_bundles = {
   #   'AwesomeFramework' => ['AwesomeFramework/Assets/*.png']
